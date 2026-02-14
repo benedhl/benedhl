@@ -1,9 +1,5 @@
 ## Olá, sou o Luiz 
- <div>
-  <a href="https://github.com/benedhl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benedhl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedhl&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,7 +12,7 @@
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Luiz-yoda" height="128" width="128" src="https://pa1.narvii.com/6630/51c1f061d180bb6544f135fb34679bc643a55a86_hq.gif">
+  <img align="right" alt="Luiz-yoda" height="128" width="128" src="https://i.pinimg.com/originals/31/ae/4f/31ae4f05a965e89de8866c565b78069b.gif">
   
 </div>
   
