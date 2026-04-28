@@ -20,15 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=benedhl&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedhl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook" alt="Top Languages">
-</p>
-
----
-
 ### 🐍 Contribuições
 
 <p align="center">
