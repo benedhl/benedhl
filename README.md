@@ -2,6 +2,7 @@
 
 <p align="center">
   Desenvolvedor full-stack em Uberaba 🇧🇷
+  Don't Panic
 </p>
 
 <p align="center">
@@ -12,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java,dart,lua,react,vite,tailwind,html,css,flutter,nodejs,nestjs,prisma,azure,jest,git" alt="Tech stack">
@@ -20,7 +21,7 @@
 
 ---
 
-### 🐍 Contribuições
+### Contribuições
 
 <p align="center">
   <img src="https://github.com/benedhl/benedhl/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
