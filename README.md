@@ -13,8 +13,6 @@
 
 ---
 
-### Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java,dart,lua,react,vite,tailwind,html,css,flutter,nodejs,nestjs,prisma,azure,jest,git" alt="Tech stack">
 </p>
