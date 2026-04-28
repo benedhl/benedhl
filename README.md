@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Luiz 👋</h1>
 
 <p align="center">
-  Desenvolvedor full-stack em Uberaba 🇧🇷
+  Desenvolvedor full-stack 🇧🇷
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java,dart,lua,react,vite,tailwind,html,css,flutter,nodejs,nestjs,prisma,azure,jest,git" alt="Tech stack">
@@ -20,7 +20,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benedhl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats">
@@ -33,7 +33,7 @@
 
 ---
 
-### 🐍 Contribuições
+###
 
 <p align="center">
   <img src="https://github.com/benedhl/benedhl/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
