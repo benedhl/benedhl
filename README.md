@@ -2,8 +2,8 @@
 
 <p align="center">
   Desenvolvedor full-stack em Uberaba 🇧🇷
-  
-  Don't Panic
+  </p>
+  <p align="center"> Don't Panic
 </p>
 
 <p align="center">
