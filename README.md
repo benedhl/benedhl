@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Luiz 👋</h1>
 
 <p align="center">
-  Desenvolvedor full-stack em Uberaba 🇧🇷
+  Desenvolvedor full-stack 🇧🇷
   </p>
   <p align="center"> Don't Panic
 </p>
